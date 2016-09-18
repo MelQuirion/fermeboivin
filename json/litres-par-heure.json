@@ -1,0 +1,54 @@
+[
+    {
+        "hour":"5",
+        "total": 30
+    },
+    {
+        "hour":"6",
+        "total": 41
+    },
+    {
+        "hour":"7",
+        "total": 45
+    },
+    {
+        "hour":"8",
+        "total": 52
+    },
+    {
+        "hour":"9",
+        "total": 37
+    },
+    {
+        "hour":"10",
+        "total": 48
+    },
+    {
+        "hour":"11",
+        "total": 28
+    },
+    {
+        "hour":"12",
+        "total": 22
+    },
+    {
+        "hour":"13",
+        "total": 46
+    },
+    {
+        "hour":"14",
+        "total": 24
+    },
+    {
+        "hour":"15",
+        "total": 32
+    },
+    {
+        "hour":"16",
+        "total": 12
+    },
+    {
+        "hour":"17",
+        "total": 19
+    }
+]
